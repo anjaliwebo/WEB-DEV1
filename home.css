@@ -1,0 +1,28 @@
+h3{
+    background-color: green;
+    background-size: 50;
+}
+a{
+    color:green;
+    
+}
+
+.special{
+    color:black;
+    font-weight: bold;
+}
+a em {
+    background-color: yellow;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.box{
+    float: right;
+}
+
+ul{
+    background-color: rgb(228, 228, 88);
+}
