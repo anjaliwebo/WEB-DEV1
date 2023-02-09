@@ -1,8 +1,13 @@
 h3{
     background-color: green;
-    background-size: 50;
+    background-size: 70px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
 }
 a{
+    
     color:green;
     
 }
@@ -26,3 +31,4 @@ a:hover{
 ul{
     background-color: rgb(228, 228, 88);
 }
+
