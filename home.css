@@ -1,11 +1,14 @@
-h3{
-    background-color: green;
-    background-size: 70px;
-    box-sizing: border-box;
-}
-body{
+*{
     margin: 0px;
 }
+
+h3{
+    background-color: green;
+    background-size: 100px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
 a{
     
     color:green;
